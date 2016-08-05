@@ -1,0 +1,4 @@
+server,url,user,password,table
+table1,192.168.2.6:8080,administrator,datashield_test&,SURVIVAL.COLLAPSE_WITH_MISSING1
+table2,192.168.2.6:8080,administrator,datashield_test&,SURVIVAL.COLLAPSE_WITH_MISSING2
+table3,192.168.2.6:8080,administrator,datashield_test&,SURVIVAL.COLLAPSE_WITH_MISSING3
