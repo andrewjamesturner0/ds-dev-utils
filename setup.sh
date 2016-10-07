@@ -20,6 +20,8 @@ Rscript -e \
                           'http://cran.obiba.org')); \
      install.packages(c('rjson', \
                         'RCurl', \
+                        'fields', \
+                        'testthat', \
                         'devtools', \
                         'opal', \
                         'opaladmin', \
