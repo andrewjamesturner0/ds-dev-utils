@@ -7,6 +7,7 @@ library(devtools)
 #load_all('dsStatsClient')
 #load_all('dsGraphicsClient')
 #load_all('dsModellingClient')
+#load_all('dsBetaTestClient')
 
 
 logins <- read.csv('logindata/vagrant.datashield_testdata_ubuntu.DASIM.csv')
