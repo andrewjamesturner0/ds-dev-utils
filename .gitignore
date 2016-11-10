@@ -3,5 +3,6 @@ dsStatsClient
 dsModellingClient
 dsGraphicsClient
 dsClient
+dsBetaTestClient
 .RData
 .Rhistory
