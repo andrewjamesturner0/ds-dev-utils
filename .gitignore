@@ -6,3 +6,4 @@ dsClient
 dsBetaTestClient
 .RData
 .Rhistory
+.vagrant
